@@ -19,7 +19,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy reading and listening to music. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://bit.ly/ElizabethAtoyejePortfolio))
+### [🏆 Check Out My Full Portfolio Website](https://bit.ly/Elizabeth_DataAnalytics_Portfolio)
       
 ## 🔭 What I'm Currently Working On 
 
